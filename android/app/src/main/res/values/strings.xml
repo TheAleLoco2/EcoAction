@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eco Action</string>
+    <string name="facebook_app_id">482491016268465</string>
+    <string name="fb_login_protocol_scheme">fb482491016268465</string>
+</resources>
